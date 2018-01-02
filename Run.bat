@@ -1,0 +1,1 @@
+Debug\Project1.exe /n2 *NoSqlDb.h *Test.cpp

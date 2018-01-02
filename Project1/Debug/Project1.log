@@ -1,0 +1,7 @@
+﻿  Test.cpp
+c:\users\amrit\desktop\cse687_project1_amrit\nosqldb\nosqldb.h(106): warning C4018: '<': signed/unsigned mismatch
+  c:\users\amrit\desktop\cse687_project1_amrit\nosqldb\nosqldb.h(97): note: while compiling class template member function 'StringData Element<StringData>::show(void)'
+  c:\users\amrit\desktop\cse687_project1_amrit\project1\test.cpp(185): note: see reference to function template instantiation 'StringData Element<StringData>::show(void)' being compiled
+  c:\users\amrit\desktop\cse687_project1_amrit\project1\test.cpp(68): note: see reference to class template instantiation 'Element<StringData>' being compiled
+  Project1.vcxproj -> C:\Users\amrit\Desktop\CSE687_Project1_Amrit\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\amrit\Desktop\CSE687_Project1_Amrit\Debug\Project1.pdb (Full PDB)

@@ -1,0 +1,1 @@
+devenv CSE687_Project1_Amrit.sln /rebuild debug

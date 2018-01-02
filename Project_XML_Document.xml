@@ -1,0 +1,66 @@
+
+  <stringDbObj>
+    <element>
+      <itemName>
+        element1
+      </itemName>
+      <category>
+        test1
+      </category>
+      <textDesc>
+        Parent of element3 and element4
+      </textDesc>
+      <timeDate>
+        Fri-Feb-03-2017 13:01
+      </timeDate>
+      <childVector>
+        <childkey>
+          element3
+        </childkey>
+        <childkey>
+          element4
+        </childkey>
+      </childVector>
+      <data>
+        element1's StringData
+      </data>
+    </element>
+    <element>
+      <itemName>
+        element2
+      </itemName>
+      <category>
+        test2
+      </category>
+      <textDesc>
+        Child of element4
+      </textDesc>
+      <timeDate>
+        Sat-Feb-04-2017 19:50
+      </timeDate>
+      <childVector>
+      </childVector>
+      <data>
+        element2's StringData
+      </data>
+    </element>
+    <element>
+      <itemName>
+        element3
+      </itemName>
+      <category>
+        Changed the text desc through editStringElement()
+      </category>
+      <textDesc>
+        Child of element1
+      </textDesc>
+      <timeDate>
+        Sun-Feb-05-2017 05:20
+      </timeDate>
+      <childVector>
+      </childVector>
+      <data>
+        element3's StringData
+      </data>
+    </element>
+  </stringDbObj>
